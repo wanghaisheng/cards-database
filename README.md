@@ -1,3 +1,4 @@
+2024=10-17
 <p align="center">
 	<a href="https://www.tcgdex.net">
 		<img src="https://www.tcgdex.net/assets/og.png" width="90%" alt="TCGdex Main Image">
